@@ -1,5 +1,7 @@
 {
   "main": "./path.js",
+  "name": "jspm-nodelibs-path",
+  "version": "0.2.0",
   "registry": "github",
   "map": {
     "./path.js": {
@@ -8,5 +10,6 @@
   },
   "peerDependencies": {
     "process": "jspm/nodelibs-process@^0.2.0-alpha"
-  }
+  },
+  "jspmNodeConversion": false
 }
